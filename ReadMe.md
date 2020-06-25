@@ -3,9 +3,8 @@ It is a weather app developed using Node. it needs location argument which you h
 
 
 <b>Steps to execute Project</b><br>
-<hr>
 <br>1.take clone
 <br>2.npm install                                                           // to install modules
 <br>3.node app.js "location_name"                 
 
-ex: node app.js delhi 
+<br>ex: node app.js delhi 
